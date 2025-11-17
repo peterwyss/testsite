@@ -1,0 +1,10 @@
+baseURL = "http://localhost:1313/"
+title = "Testseite"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 5
+
+
+[params]
+  env = "production"
